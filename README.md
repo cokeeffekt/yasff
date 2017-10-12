@@ -16,15 +16,17 @@ Yet Another Small Form Factor.
 
 ### Fabricated parts
 
-| Part             | Qty | Type            | Link | Cost   |
-| ---------------- |:---:| --------------- | ---- | ------:|
-| Base Plate       | 1   | Laser Cut       | Link |    $?? |
-| Back Panel       | 1   | Laser Cut       | Link |    $?? |
-| Left Panel       | 1   | Laser Cut       | Link |    $?? |
-| Right Panel      | 1   | Laser Cut       | Link |    $?? |
-| Top Panel        | 1   | Laser Cut       | Link |    $?? |
-| Rear Uprights    | 2   | 3d Printed      | Link |    $?? |
-| Front Uprights   | 2   | 3d Printed      | Link |    $?? |
+| Part                | Qty | Type            | Link | Cost   |
+| ----------------    |:---:| --------------- | ---- | ------:|
+| Base Plate - 4.5mm  | 1   | Laser Cut       | Link |    $?? |
+| Back Panel - 4.5mm  | 1   | Laser Cut       | Link |    $?? |
+| Left Panel - 3mm    | 1   | Laser Cut       | Link |    $?? |
+| Right Panel - 3mm   | 1   | Laser Cut       | Link |    $?? |
+| Top Panel - 3mm     | 1   | Laser Cut       | Link |    $?? |
+| Rear Feet - Foam    | 2   | Laser Cut       | Link |    $?? |
+| Front Feet - Foam   | 2   | Laser Cut       | Link |    $?? |
+| Rear Uprights       | 2   | 3d Printed      | Link |    $?? |
+| Front Uprights      | 2   | 3d Printed      | Link |    $?? |
 
 
 ### Purchase Parts
