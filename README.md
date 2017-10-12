@@ -15,8 +15,9 @@ Yet Another Small Form Factor.
 - Full height Graphics card max 140mm tall, 175 long
 
 ### Fabricated parts
+
 | Part             | Qty | Type            | Link | Cost   |
-| ---------------- |:---:| --------------- | Link | ------:|
+| ---------------- |:---:| --------------- | ---- | ------:|
 | Base Plate       | 1   | Laser Cut       | Link |    $?? |
 | Back Panel       | 1   | Laser Cut       | Link |    $?? |
 | Left Panel       | 1   | Laser Cut       | Link |    $?? |
@@ -27,8 +28,9 @@ Yet Another Small Form Factor.
 
 
 ### Purchase Parts
+
 | Part                       | Qty | Link | Cost   |
-| -------------------------- |:---:| Link | ------:|
+| -------------------------- |:---:| ---- | ------:|
 | M3 Nut-sert                | 10  | Link |    $?? |
 | M3 Bolt - 16mm             | 8   | Link |    $?? |
 | M3 Bolt - 6mm              | 10  | Link |    $?? |
