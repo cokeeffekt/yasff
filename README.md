@@ -18,14 +18,14 @@ Yet Another Small Form Factor.
 
 | Part                | Qty | Type            | Cost   | Link |
 | ----------------    |:---:| --------------- | ------:| ---- |
-| Base Plate - 4.5mm  | 1   | Laser Cut       |    $?? | [Link](../blob/master/laser-cut/Base_Plate_cut_4.5mm.svg) |
-| Back Panel - 4.5mm  | 1   | Laser Cut       |    $?? | [Link](../blob/master/laser-cut/Base_Plate_cut_4.5mm.svg) |
-| Left Panel - 3mm    | 1   | Laser Cut       |    $?? | [Link](../blob/master/laser-cut/Left_Panel_cut_3mm.svg) |
-| Right Panel - 3mm   | 1   | Laser Cut       |    $?? | [Link](../blob/master/laser-cut/Right_Panel_cut_3mm.svg) |
-| Top Panel - 3mm     | 1   | Laser Cut       |    $?? | [Link](../blob/master/laser-cut/Top_Panel_cut_3mm.svg) |
-| Feet - Foam         | 1   | Laser Cut       |    $?? | [Link](../blob/master/laser-cut/Feet_cut_Foam.svg) |
-| Rear Uprights       | 2   | 3d Printed      |    $?? | [Link](../blob/master/3d-print/Rear_Upright.stl) |
-| Front Uprights      | 2   | 3d Printed      |    $?? | [Link](../blob/master/3d-print/Front_Upright.stl) |
+| Base Plate - 4.5mm  | 1   | Laser Cut       |    $?? | [Link](../master/laser-cut/Base_Plate_cut_4.5mm.svg) |
+| Back Panel - 4.5mm  | 1   | Laser Cut       |    $?? | [Link](../master/laser-cut/Back_Panel_cut_4.5mm.svg) |
+| Left Panel - 3mm    | 1   | Laser Cut       |    $?? | [Link](../master/laser-cut/Left_Panel_cut_3mm.svg) |
+| Right Panel - 3mm   | 1   | Laser Cut       |    $?? | [Link](../master/laser-cut/Right_Panel_cut_3mm.svg) |
+| Top Panel - 3mm     | 1   | Laser Cut       |    $?? | [Link](../master/laser-cut/Top_Panel_cut_3mm.svg) |
+| Feet - Foam         | 1   | Laser Cut       |    $?? | [Link](../master/laser-cut/Feet_cut_Foam.svg) |
+| Rear Uprights       | 2   | 3d Printed      |    $?? | [Link](../master/3d-print/Rear_Upright.stl) |
+| Front Uprights      | 2   | 3d Printed      |    $?? | [Link](../master/3d-print/Front_Upright.stl) |
 
 
 ### Purchase Parts
