@@ -37,3 +37,10 @@ Yet Another Small Form Factor.
 | M3 Bolt - 6mm              | 10  |    $?? | Link |
 | M3 Brass hex standoff      | 4   |    $?? | Link |
 | 12mm momentary switch      | 10  |    $?? | Link |
+
+
+I'll endevour to get more information, prices, instructions and all that jazz. There is more than enough to go build one for yourself at this point so enjoy.
+
+There is a build log at smallformfactor.net that you can follow [HERE](https://smallformfactor.net/forum/threads/yasff-open-source-small-basic-low-cost.3282/)
+
+Any issues just report them ill take a look, ill also accept merge requests for fixes or additional documentation.
