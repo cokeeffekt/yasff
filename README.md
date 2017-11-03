@@ -27,6 +27,8 @@ Yet Another Small Form Factor.
 | Rear Uprights       | 2   | 3d Printed      |    $?? | [Link](../master/3d-print/Rear_Upright.stl) |
 | Front Uprights      | 2   | 3d Printed      |    $?? | [Link](../master/3d-print/Front_Upright.stl) |
 
+All files are designed to print on < A4 size acrylic/timber other cuttable material, this size is often found at a good price on ebay or cut to order places. I't will also fit in even the smallest laser cutter. *cought* k40
+
 
 ### Purchase Parts
 
@@ -35,7 +37,7 @@ Yet Another Small Form Factor.
 | M3 Nut-sert                | 10  |    $?? | Link |
 | M3 Bolt - 16mm             | 8   |    $?? | Link |
 | M3 Bolt - 6mm              | 10  |    $?? | Link |
-| M3 Brass hex standoff      | 4   |    $?? | Link |
+| M3 5mm Brass hex standoff  | 4   |    $?? | Link |
 | 12mm momentary switch      | 10  |    $?? | Link |
 
 
