@@ -27,7 +27,7 @@ Yet Another Small Form Factor.
 | Rear Uprights       | 2   | 3d Printed      |    < $6ea for FDM ABS| [Link](../master/3d-print/Rear_Upright.stl) | 3dhubs.com |
 | Front Uprights      | 2   | 3d Printed      |    < $6ea for FDM ABS| [Link](../master/3d-print/Front_Upright.stl) | 3dhubs.com |
 
-All files are designed to print on < A4 size acrylic/timber other cuttable material, this size is often found at a good price on ebay or cut to order places. I't will also fit in even the smallest laser cutter. *cough* k40
+All files are designed to print on < A4 size acrylic/timber other cuttable material, this size is often found at a good price on ebay or cut to order places. It will also fit in even the smallest laser cutter. *cough* k40
 
 
 ### Purchase Parts
@@ -37,11 +37,11 @@ All files are designed to print on < A4 size acrylic/timber other cuttable mater
 | M3 Nut-sert (9mm deep)     | 10  |    $3  | [Link](https://i.imgur.com/tbcpUZS.jpg "Nutsert") | ebay.com |
 | M3 Bolt - 16mm             | 8   |    $1  | [Link](https://i.imgur.com/fcgC1oU.jpg "m3 bolt") | ebay.com |
 | M3 Bolt - 6mm              | 10  |    $1  | [Link](https://i.imgur.com/fcgC1oU.jpg "m3 bolt") | ebay.com |
-| M3 5mm Brass hex standoff  | 4   |    $3  | [Link](https://i.imgur.com/7tRPydQ.jpg "Standoff") | ebay.com |
+| M3 5mm Brass hex female-female spacer | 4   |    $3  | [Link](https://i.imgur.com/RtYRjZ0.png "standoff") | ebay.com |
 | 12mm momentary switch      | 10  |    $1  | [Link](https://i.imgur.com/a2G6nKk.jpg "Momentary switch") | ebay.com |
 
 
-I'll endevour to get more information, prices, instructions and all that jazz. There is more than enough to go build one for yourself at this point so enjoy.
+I'll endeavour to get more information, prices, instructions and all that jazz. There is more than enough to go build one for yourself at this point so enjoy.
 
 There is a build log at smallformfactor.net that you can follow [HERE](https://smallformfactor.net/forum/threads/yasff-open-source-small-basic-low-cost.3282/)
 
